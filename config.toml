@@ -2,7 +2,9 @@ baseURL = "https://www.wangfenjin.com"
 languageCode = "en-us"
 title = "Wang Fenjin"
 theme = "terminal"
-paginate = 10
+
+[pagination]
+  pagerSize = 10 # Sets 10 items per page
 
 [params]
   contentTypeName = "posts"
