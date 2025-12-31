@@ -14,12 +14,15 @@ theme = "terminal"
   centerTheme = true
   favicon = "favicon.ico"
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 [languages]
   [languages.en]
     title = "Wang Fenjin"
-    subtitle = "Software Engineer at Bytedance"
+    subtitle = "Buliding Midas https://midas.ing"
     keywords = "software engineer, distributed system, storage system, golang, python, rust, c++"
-    copyright = "Copyright © 2023 Wang Fenjin :: Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+    copyright = "Copyright © 2026 Wang Fenjin :: Powered by <a href=\"http://gohugo.io\">Hugo</a>"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
