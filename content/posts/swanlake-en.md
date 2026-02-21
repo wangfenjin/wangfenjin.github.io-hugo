@@ -29,7 +29,7 @@ With duckdb-rs, the primary goal was clear: make DuckDB feel natural in Rust. Th
 
 So SwanLake was never “just another wrapper”. I wanted a practical analytics service entrypoint.
 
-## Architecture (Engineer’s View)
+## Architecture
 
 You can read SwanLake as a five-layer system:
 
