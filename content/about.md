@@ -7,3 +7,5 @@ author = "Wang Fenjin"
 # Hi there
 
 github: [https://github.com/wangfenjin](https://github.com/wangfenjin)
+
+I'm building [GrowthGPT](https://growthgpt.app).
